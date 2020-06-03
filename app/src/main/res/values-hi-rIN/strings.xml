@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lang4</string>
+    <string name="dash">यह एक डैशबोर्ड है</string>
+    <string name="main">यह मुख्य गतिविधि है</string>
+</resources>

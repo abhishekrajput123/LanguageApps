@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lang4</string>
+    <string name="text_hindi" translatable="false">हिंदी</string>
+    <string name="text_english" translatable="false">English</string>
+    <string name="text_spanish" translatable="false">" Español"</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="dash">This is a Dashboard</string>
+    <string name="main">This is Main Activity</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lang4</string>
+    <string name="main">Esta es la actividad principal</string>
+    <string name="dash">Este es un tablero de instrumentos</string>
+</resources>
